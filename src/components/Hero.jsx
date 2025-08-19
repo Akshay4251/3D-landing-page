@@ -1,6 +1,6 @@
 import 'boxicons/css/boxicons.min.css';
 import Spline from '@splinetool/react-spline';
-import { FlipWords } from './Flipwords';
+import { FlipWords } from './FlipWords';
 
 const Hero = () => {
     return (
